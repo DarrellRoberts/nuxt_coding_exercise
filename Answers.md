@@ -8,7 +8,7 @@ I saw two different approaches to implement responsiveness:
 
 I decided to go for mobile first design.
 
-## 2. 
+## 2. Add the {userId} API call
 
 I made the API call on: "pages/user/[id].vue"
 
@@ -18,9 +18,9 @@ I compared the two rendering methods and took screenshots to compare the perform
 
 ## SSR
 
-![Server-side Rendering](./SSR.jpg)
+![Server-side Rendering](/SSR.jpg)
 
 ## SPA/CSR
 
-[Single Page Application/ Client-side Rendering](./SPA.jpg)
+[Single Page Application/ Client-side Rendering](/SPA.jpg)
 
