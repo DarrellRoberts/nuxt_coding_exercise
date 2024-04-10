@@ -3,8 +3,8 @@
 ## 1. Responsiveness
 
 I saw two different approaches to implement responsiveness:
-    - Mobile First Design
-    - Desktop First Design
+* Mobile First Design
+* Desktop First Design
 
 I decided to go for mobile first design, as this is usually best practice, and worked from the smallest width (250px) to desktop-width. 
 
