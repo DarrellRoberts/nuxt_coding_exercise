@@ -28,7 +28,7 @@ I used localhost:3000/user/1 as the request url.
 
 ## SPA/CSR
 
-[Single Page Application/ Client-side Rendering](/public/SPA.jpg)
+![Single Page Application/ Client-side Rendering](/public/SPA.jpg)
 
 * Client-side rendering or Single Page Applications work differently however, in that it sends either an empty or minimal HTML page with the JavaScript code (contained within the script tag) to the browser. The browser then fetches the linked JavaScript code. Only once the JavaScript files are downloaded and executed, such as the data fetching, will the content of the page be rendered.
 * This is why in this screenshot the DCL loads first, followed by the Onload Event. Contrary to what we see with the SSR screenshot, the HTML elements, such as: LCP, FP and FCP, are the last to be rendered.
