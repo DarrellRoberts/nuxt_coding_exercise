@@ -18,9 +18,9 @@ I compared the two rendering methods and took screenshots to compare the perform
 
 ## SSR
 
-![Server-side Rendering](/SSR.jpg)
+![Server-side Rendering](/public/SSR.jpg)
 
 ## SPA/CSR
 
-[Single Page Application/ Client-side Rendering](/SPA.jpg)
+[Single Page Application/ Client-side Rendering](/public/SPA.jpg)
 
